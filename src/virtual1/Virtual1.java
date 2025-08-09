@@ -35,6 +35,8 @@ public class Virtual1 {
                 System.out.println("Es mayor de edad");
             }else {
                 System.out.println("Es menor de edad");
+                //cambios local
+                //es una prueba
             }
         }
     }
